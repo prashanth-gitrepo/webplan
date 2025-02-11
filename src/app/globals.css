@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: 144, 250, 234;
+  --accent: 52, 199, 89;
+}
+
+body {
+  overflow-x: hidden;
+}
+
