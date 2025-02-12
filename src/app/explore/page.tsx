@@ -20,7 +20,7 @@ export default function ExplorePage() {
       <div className="max-w-7xl mx-auto px-6 py-16">
         <h1 className="text-4xl font-bold mb-8 text-center">Explore Our Learning Universe</h1>
         <p className="text-xl text-center mb-12 max-w-3xl mx-auto">
-          Discover a wide range of courses and learning paths to help you achieve your goals. Whether you're just
+          Discover a wide range of courses and learning paths to help you achieve your goals. Whether youre just
           starting out or looking to advance your career, we have something for everyone.
         </p>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
