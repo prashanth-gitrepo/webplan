@@ -73,3 +73,11 @@ export default function LoginPage() {
   )
 }
 
+// Add this function to enable Static Site Generation (SSG) for dynamic routes
+export function generateStaticParams() {
+  return [
+    { type: "email" },
+    { type: "social" },
+    // Add more types if necessary
+  ]
+}
